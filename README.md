@@ -1,85 +1,26 @@
-## 👋 About Me
+## 𝐈 𝐝𝐨𝐧’𝐭 𝐣𝐮𝐬𝐭 𝐛𝐮𝐢𝐥𝐝 𝐜𝐡𝐚𝐭𝐛𝐨𝐭𝐬; 𝐈 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐚𝐮𝐭𝐨𝐧𝐨𝐦𝐨𝐮𝐬 𝐀𝐈 𝐰𝐨𝐫𝐤𝐟𝐥𝐨𝐰𝐬 𝐭𝐡𝐚𝐭 𝐫𝐞𝐚𝐬𝐨𝐧, 𝐩𝐥𝐚𝐧, 𝐚𝐧𝐝 𝐞𝐱𝐞𝐜𝐮𝐭𝐞.
 
-Hi, I’m Aftab 👨‍💻
+As an 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 specializing in 𝐀𝐠𝐞𝐧𝐭𝐢𝐜 𝐀𝐈 𝐚𝐧𝐝 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧, my focus is on moving beyond simple prompt-response interactions. I build experimental and production-ready frameworks where LLMs act as autonomous entities capable of managing complex task lifecycles from start to finish.
+Recently, I’ve developed an 𝐄𝐱𝐩𝐞𝐫𝐢𝐦𝐞𝐧𝐭𝐚𝐥 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤 that bridges the gap between static code and dynamic reasoning. Key features include:
 
-AI Agent Developer focused on building real-world, production-ready AI systems that solve actual business problems.
+## 𝐀𝐮𝐭𝐨𝐧𝐨𝐦𝐨𝐮𝐬 𝐓𝐚𝐬𝐤 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐨𝐧:
+High-level goals are decomposed into executable steps, including file system operations and tool use.
 
-I’m passionate about agentic AI with python using GenAI, and tool-using AI agents
+## 𝐌𝐞𝐦𝐨𝐫𝐲-𝐃𝐫𝐢𝐯𝐞𝐧 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞:
+Maintaining state across long-running interactions to ensure contextually aware decision-making.
 
-## 🔭 I’m currently working on
+## 𝐄𝐱𝐭𝐞𝐧𝐬𝐢𝐛𝐥𝐞 𝐓𝐨𝐨𝐥 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧:
+Using Pythonic design patterns (Decorators) to allow agents to interact with any external API or local system seamlessly.
 
-🤖 AI Agents using agentic frameworks (tool calling, memory, reasoning loops)
+## 𝐌𝐨𝐝𝐞𝐥-𝐀𝐠𝐧𝐨𝐬𝐭𝐢𝐜 𝐃𝐞𝐬𝐢𝐠𝐧:
+Utilizing LiteLLM to ensure flexibility across OpenAI, Anthropic, and open-source models (Ollama/Llama 3).
 
-🧠 Structured AI systems with Pydantic, JSON schemas & validation
+## 𝐂𝐨𝐫𝐞 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞:
 
-⚙️ Automation workflows for business tasks (support, data processing, decision making)
+## 𝐀𝐠𝐞𝐧𝐭𝐢𝐜 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬:
+LangGraph, CrewAI, AutoGen (AG2).
 
-🧩 Small digital AI products that can be sold to startups and executives
+## 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠:
+Tool Use (Function Calling), RAG (Retrieval-Augmented Generation), Prompt Engineering.
 
-## 👯 I’m looking to collaborate on
-
-❖ Open-source AI agent frameworks
-
-❖ Automation tools for businesses (CRM, support bots, internal copilots)
-
-❖ AI products focused on productivity, operations, and decision support
-
-❖ Research-to-production AI projects (not just demos)
-
-## 🤝 I’m looking for help with
-
-❖ Scaling AI agents to production-level systems
-
-❖ Best practices for agent architecture & evaluation
-
-❖ Monetizing AI tools (pricing, packaging, positioning)
-
-❖ Feedback on AI product ideas for executives & enterprises
-
-## 🌱 I’m currently learning
-
-❖ Advanced AI agent loops (planning → acting → observing → reflecting)
-
-❖ Tool use integration (APIs, file systems, databases)
-
-❖ Function calling & structured outputs
-
-❖ LLM orchestration using LiteLLM / OpenAI-style APIs
-
-❖ Designing reliable, testable AI agents
-
-## 💬 Ask me about
-
-❖ AI Agents & Agentic workflows
-
-❖ Pydantic models & structured AI outputs
-
-❖ Prompt engineering for reliable automation
-
-❖ Turning AI ideas into sellable digital products
-
-❖ AI use-cases for startups & executives
-
-## ⚡ Fun fact
-
-I don’t just “learn AI” —
-I build systems that actually do work 🛠️🤖
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aftab-hussain120/)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@aiwithaftab)
- 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aiwithaftaB&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aiwithaftaB&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aiwithaftaB&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aiwithaftaB&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=aiwithaftaB&icon=0&color=0)](https://visitcount.itsvg.in)
+𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧: Python-based Workflow Automation, API Orchestration, and Stateful AI Systems.
