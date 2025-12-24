@@ -21,6 +21,6 @@ Utilizing LiteLLM to ensure flexibility across OpenAI, Anthropic, and open-sourc
 LangGraph, CrewAI, AutoGen (AG2).
 
 ## 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠:
-Tool Use (Function Calling), RAG (Retrieval-Augmented Generation), Prompt Engineering.
+Tool Use (Function Calling), RAG (Retrieval-Augmented Generation), Prompt Engineering, Tavily.
 
 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧: Python-based Workflow Automation, API Orchestration, and Stateful AI Systems.
